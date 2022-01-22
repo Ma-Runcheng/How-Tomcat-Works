@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="how-tomcat-works-ex20" />
+        <module name="how-tomcat-works-ex10" />
+        <module name="how-tomcat-works-ex11" />
+        <module name="how-tomcat-works-ex01" />
+        <module name="how-tomcat-works-ex02" />
+        <module name="how-tomcat-works-ex13" />
+        <module name="how-tomcat-works-ex03" />
+        <module name="how-tomcat-works-ex14" />
+        <module name="how-tomcat-works-ex04" />
+        <module name="how-tomcat-works-ex15" />
+        <module name="how-tomcat-works-ex05" />
+        <module name="how-tomcat-works-ex16" />
+        <module name="how-tomcat-works-ex06" />
+        <module name="how-tomcat-works-ex07" />
+        <module name="how-tomcat-works-ex08" />
+        <module name="how-tomcat-works-ex09" />
+        <module name="how-tomcat-works-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="how-tomcat-works-ex01" target="1.5" />
+      <module name="how-tomcat-works-ex02" target="1.5" />
+      <module name="how-tomcat-works-ex03" target="1.5" />
+      <module name="how-tomcat-works-ex04" target="1.5" />
+      <module name="how-tomcat-works-ex05" target="1.5" />
+      <module name="how-tomcat-works-ex06" target="1.5" />
+      <module name="how-tomcat-works-ex07" target="1.5" />
+      <module name="how-tomcat-works-ex08" target="1.5" />
+      <module name="how-tomcat-works-ex09" target="1.5" />
+      <module name="how-tomcat-works-ex10" target="1.5" />
+      <module name="how-tomcat-works-ex11" target="1.5" />
+      <module name="how-tomcat-works-ex13" target="1.5" />
+      <module name="how-tomcat-works-ex14" target="1.5" />
+      <module name="how-tomcat-works-ex15" target="1.5" />
+      <module name="how-tomcat-works-ex16" target="1.5" />
+      <module name="how-tomcat-works-ex20" target="1.5" />
+      <module name="how-tomcat-works-util" target="1.5" />
+      <module name="HowTomcatWorks" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

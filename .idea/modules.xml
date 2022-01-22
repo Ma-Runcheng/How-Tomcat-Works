@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HowTomcatWorks.iml" filepath="$PROJECT_DIR$/HowTomcatWorks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex01/how-tomcat-works-ex01.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex01/how-tomcat-works-ex01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex02/how-tomcat-works-ex02.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex02/how-tomcat-works-ex02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex03/how-tomcat-works-ex03.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex03/how-tomcat-works-ex03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex04/how-tomcat-works-ex04.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex04/how-tomcat-works-ex04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex05/how-tomcat-works-ex05.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex05/how-tomcat-works-ex05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex06/how-tomcat-works-ex06.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex06/how-tomcat-works-ex06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex07/how-tomcat-works-ex07.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex07/how-tomcat-works-ex07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex08/how-tomcat-works-ex08.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex08/how-tomcat-works-ex08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex09/how-tomcat-works-ex09.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex09/how-tomcat-works-ex09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex10/how-tomcat-works-ex10.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex10/how-tomcat-works-ex10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex11/how-tomcat-works-ex11.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex11/how-tomcat-works-ex11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex13/how-tomcat-works-ex13.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex13/how-tomcat-works-ex13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex14/how-tomcat-works-ex14.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex14/how-tomcat-works-ex14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex15/how-tomcat-works-ex15.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex15/how-tomcat-works-ex15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex16/how-tomcat-works-ex16.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex16/how-tomcat-works-ex16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-ex20/how-tomcat-works-ex20.iml" filepath="$PROJECT_DIR$/how-tomcat-works-ex20/how-tomcat-works-ex20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/how-tomcat-works-util/how-tomcat-works-util.iml" filepath="$PROJECT_DIR$/how-tomcat-works-util/how-tomcat-works-util.iml" />
+    </modules>
+  </component>
+</project>
